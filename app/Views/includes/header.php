@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Los Super Heroes mas grandes de la historia">
+    <meta name="description" content="Los Super Heroes mas grandes de Marvel">
     <meta name="author" content="Nestor Olanda">
     <link rel="icon" href="<?= base_url(); ?>/assets/img/favicon.ico">
 
-    <title>Super Heroes Marvel</title>
+    <title>Super Heroes de Marvel</title>
 
     <link href="<?= base_url(); ?>/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?= base_url(); ?>/assets/css/carousel.css" rel="stylesheet">
